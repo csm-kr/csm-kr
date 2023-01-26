@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @csm-kr
 - 👀 I’m interested in machine learning and computer vision.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Neural Radiance Field, and Transformer Detection
+- 📫 How to reach me please contact to csm8167@naver.com
 
 <!---
 csm-kr/csm-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
